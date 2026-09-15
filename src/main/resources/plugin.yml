@@ -1,0 +1,17 @@
+name: DashMan
+version: 1.0.0
+main: eve.DashMan
+api-version: '1.21'
+author: Maeve Crebs
+description: Dynamic plugin manager for Paper servers.
+
+commands:
+  dashman:
+    description: Manage server plugins dynamically
+    usage: /dashman <subcommand>
+    permission: dashman.admin
+
+permissions:
+  dashman.admin:
+    description: Allows access to DashMan
+    default: op
