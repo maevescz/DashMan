@@ -2,11 +2,6 @@
   <h1>DashMan</h1>
   <h2>⚡ A Simple & Lightweight Plugin Manager</h2>
 </div>
-
-<div align="center">
-<img src="./logo/banner.png" alt="DashMan" width="200">
-</div>
-
 <div align="center">
   
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -15,7 +10,11 @@
 
 </div>
 
-> Manage your Bukkit & Paper plugins without restarting your server.
+<div align="center">
+<img src="./logo/banner.png" alt="DashMan" width="2500">
+</div>
+
+> Manage your plugins without restarting your server.
 
 ## ✨ Features
 
@@ -26,10 +25,10 @@
 - 🔍 Inspect plugin information
 - 🧩 Dependency checking
 - 📋 Plugin scanning
-- 📊 Plugin status overview
+- 📊 Plugin statu overview
 
 
-## 🛠️ Commands
+## 🛠️ Command
 ```text
 /dashman
 /dashman help
